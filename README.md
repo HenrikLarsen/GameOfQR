@@ -8,7 +8,7 @@ Oscar Vladau-Husevold
 ## Features
 * Converting a text to playable QR-Code.
 * Cellsize automatic set to fit the whole pattern to the device screen.
-* Manipuøate the cellsize.
+* Manipulate the cellsize.
 * Change the colors of the cells.
 * Converting a photo to a playable game of life board, using Floyd SteinBerg dithering.
 
