@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GameOfQR</string>
+    <string-array name="colorList">
+        <item>BLACK</item>
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+        <item>ORANGE</item>
+        <item>PURPLE</item>
+        <item>BROWN</item>
+        <item>GRAY</item>
+        <item>PINK</item>
+        <item>BLUE</item>
+    </string-array>
+</resources>
