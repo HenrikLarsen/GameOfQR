@@ -22,9 +22,6 @@ The speed slider-bar will allow you to manipulate the size of the cells.
 ## Rules
 The initial rules of Conway's Game of Life are quite simple: If a live cell has two or three neighbours, it survives to the next generation. If a dead cell has exactly three neighbours, it is born. All other conditions result in dead cells. 
 
-There are several other rule variations. You can use the rule drop-down menu to choose from a list of already created rules, or you can experiment with your own combination by writing in the Set Rules box and pressing enter. 
-
-
 ## Built With
 
 * [Java](https://www.java.com/en/)
