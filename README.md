@@ -1,4 +1,4 @@
-# Game Of Life
+# Game Of Life - Android
 Android implementation of <b>Conway's Game of Life</b> for Program Development (DATS1600) at Oslo and Akershus University College (HiOA), spring 2017. The assignment recieved an A.
 
 ## Created by:
